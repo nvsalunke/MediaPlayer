@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "MediaPlayer": {
+      "commandName": "Project",
+      "commandLineArgs": "Play test.mp3 ExtraBass"
+    }
+  }
+}
